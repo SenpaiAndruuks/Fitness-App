@@ -1,4 +1,5 @@
 # Fitness-App
 
 
-![fitness](https://github.com/user-attachments/assets/cd7b00fc-7cbc-4be2-bb7c-20d5cddf2d73)
+
+![IMG_0268](https://github.com/user-attachments/assets/25622f70-070a-4c6c-9872-13b771ec196f)
